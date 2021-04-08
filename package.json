@@ -6,7 +6,10 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "random": "^3.0.3",
+    "webpack": "^5.31.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
